@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nanjil Shop</string>
+    <string name="main_page_selected">%s page is selected</string>
+    <string name="action_notification">Cart</string>
+    <string name="action_notification_wishlist">Wishlist</string>
+    <string name="Rs">\u20B9</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="button">Button</string>
+</resources>
